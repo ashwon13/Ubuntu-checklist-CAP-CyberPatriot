@@ -73,8 +73,35 @@ TCP and UDP ports 137–139 — Windows NetBIOS over TCP/IP
 
 TCP port 1433 and UDP port 1434 — Microsoft SQL Server
 
+FTP port 20-21
+
+Telenet port 23
+
+RPC 135
+
+Direct Connect Peer-Peer port 411-412
+
+GCP 636 and 3269
+port 3389
 
 
+
+Allowing ports/opening ports
+
+The command to open closed ports is sudo netstat -tulpn | grep ':port'
+and the port is the port number so to open ssh port ( you wouldn't in a match) is sudo netstat -tulpn | grep ':22'
+to see all open  ports the command is sudo lsof -i -P -n | grep LISTEN 
+to see if a port is closed type netstat -tulnp | grep <port no> and if you were to close ssh you would type netstat -tulnp | grep <22> 
+
+these are the ports that should stay open port 7 echo ping 
+port 25 SMTP
+port 88 atunteciation system
+port 137 and 139 NETBIOS
+port 143 more email
+port 161-162 SNMAP
+port 445 AD,DS
+587 more SMTP
+631 Internet printing
 
 
 
