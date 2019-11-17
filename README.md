@@ -5,4 +5,7 @@ Bascically I've compiled a list of things needed to be done based on previous co
 
 From powerpoints fron CyberPatriot https://docs.google.com/document/d/1dDJA3Go5ujMKW9vBFOBttLSg1UTz-xcX7ElfGnN37OM/edit  https://s3.amazonaws.com/cpvii/Training+materials/Unit+Eight+-+Ubuntu+Security.pdf
 
+After each event checck your score if you lose a point then just control z your last step.
+
+
 
