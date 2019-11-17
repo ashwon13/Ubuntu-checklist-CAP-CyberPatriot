@@ -103,5 +103,12 @@ port 445 AD,DS
 587 more SMTP
 631 Internet printing
 
+other ports https://www.acpsd.net/site/handlers/filedownload.ashx?moduleinstanceid=53976&dataid=56108&FileName=common_ports.pdf
 
 
+
+Your seeing this because I havn't completed the checklist so here are some other checklists 
+if you don't understand something than google it 
+http://www.badassitguy.com/CyberPatriot/335790-230-09.pdf
+commands for terminal https://www.acpsd.net/site/handlers/filedownload.ashx?moduleinstanceid=53976&dataid=56019&FileName=Ubuntu%20Reference.pdf
+commands for linux / unix https://www.acpsd.net/site/handlers/filedownload.ashx?moduleinstanceid=53976&dataid=56018&FileName=Unix-Linux%20Command%20Reference.pdf
