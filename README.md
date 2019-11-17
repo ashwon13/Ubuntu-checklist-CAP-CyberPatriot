@@ -52,7 +52,37 @@ got to termianl by clicking the ubuntu button and serching termianl and click on
 and type the command sudo kill $(sudo lsof -t -i:3000)
 this will close port and the numbers 3000 stand for the port you want to close so if you want to close the ssh port you type sudo kill $(sudo lsof -t -i:22)
 because ssh connects to port 22
-all the ports that need to be blocked are
+all the ports that need to be blocked are TCP port 21 — FTP (File Transfer Protocol)
+
+
+TCP port 22 — SSH (Secure Shell)
+
+
+TCP port 23 — Telnet
+
+
+TCP port 25 — SMTP (Simple Mail Transfer Protocol)
+
+
+TCP and UDP port 53 — DNS (Domain Name System)
+
+
+TCP port 443 — HTTP (Hypertext Transport Protocol) and HTTPS (HTTP over SSL)
+
+
+TCP port 110 — POP3 (Post Office Protocol version 3)
+
+
+TCP and UDP port 135 — Windows RPC
+
+
+TCP and UDP ports 137–139 — Windows NetBIOS over TCP/IP
+
+
+TCP port 1433 and UDP port 1434 — Microsoft SQL Server
+
+
+
 
 
 
