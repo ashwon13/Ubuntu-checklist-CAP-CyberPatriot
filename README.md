@@ -37,6 +37,22 @@ if this doesn't work then you many need to go to root so type :sudo su
 then enter  apt-get install gufw 
 if it still doesn't work then exit root by typing exit then type sudo apt-get install gufw
 if it prompts you to confirm that you want to type capital y
-then go to the 
+then go to the ubuntu button (it's the fisrt on the menu)
+and search firewall configuration
+then click the unlock on the gufw window when it pops up if it doesn't the go to the ubuntu button and dearch gufw
+The default (and recommended rules) governing traffic are
+to Deny all incoming traffic and Allow all outgoing traffic so on the window where there is a sheild with the colors red green and white make status on and incoming set to deny and outgoing set to allow. then open or block ports by clicking on the simple or advanced tabs
+
+
+
+
+Allowing ports
+
+got to termianl by clicking the ubuntu button and serching termianl and click on it not xterm or uxterm
+and type the command sudo kill $(sudo lsof -t -i:3000)
+this will close port and the numbers 3000 stand for the port you want to close so if you want to close the ssh port you type sudo kill $(sudo lsof -t -i:22)
+because ssh connects to port 22
+all the ports that need to be blocked are
+
 
 
