@@ -7,5 +7,5 @@ From powerpoints fron CyberPatriot https://docs.google.com/document/d/1dDJA3Go5u
 
 After each event checck your score if you lose a point then just control z your last step.
 
-also i will be posting ubuntu images in the future on my website http://ashwin.fixotech.net/ and thanks for Chaalan for hooking me up and helping me out when I made this. I would also like to thank Pawsat for helping me out with Linux. I would lastly thank T. Dogan for grinding Ubuntu and Linux with me all those days.
+also i will be posting ubuntu images in the future on my website http://ashwin.fixotech.net/ and thanks for Chaalan for hooking me up and helping me out when I first joined CyberPatriot and for creating this website for me. I would also like to thank Pawsat for helping me out with Linux. I would lastly thank T. Dogan for grinding Ubuntu and Linux with me all those days.
 
