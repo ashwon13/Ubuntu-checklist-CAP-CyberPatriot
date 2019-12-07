@@ -15,3 +15,12 @@ https://github.com/konstruktoid/hardening/blob/master/README.adoc#01_pre
 https://poweruphosting.com/blog/ubuntu-security/
 
 
+
+
+videos
+firewall enable ssh https://www.bing.com/videos/search?q=cyberpatriot+ubuntu+forensics&&view=detail&mid=37B9F52236DC4355E70237B9F52236DC4355E702&&FORM=VRDGAR
+
+rootkit virus chrontab
+https://www.bing.com/videos/search?q=cyberpatriot+ubuntu+forensics&&view=detail&mid=37B9F52236DC4355E70237B9F52236DC4355E702&&FORM=VRDGAR
+
+
