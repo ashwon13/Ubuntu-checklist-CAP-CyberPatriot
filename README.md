@@ -9,3 +9,9 @@ After each event checck your score if you lose a point then just control z your 
 
 also i will be posting ubuntu images in the future on my website http://ashwin.fixotech.net/ and thanks for Chaalan for hooking me up and helping me out when I first joined CyberPatriot and for creating this website for me. I would also like to thank Pawsat for helping me out with Linux. I would lastly thank T. Dogan for grinding Ubuntu and Linux with me all those days.
 
+scripts
+https://github.com/BiermanM/CyberPatriot-Scripts/blob/master/UbuntuScript.sh
+https://github.com/konstruktoid/hardening/blob/master/README.adoc#01_pre
+https://poweruphosting.com/blog/ubuntu-security/
+
+
