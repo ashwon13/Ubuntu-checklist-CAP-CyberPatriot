@@ -14,6 +14,9 @@ https://github.com/BiermanM/CyberPatriot-Scripts/blob/master/UbuntuScript.sh
 https://github.com/konstruktoid/hardening/blob/master/README.adoc#01_pre
 https://poweruphosting.com/blog/ubuntu-security/
 
+Checklists 
+https://github.com/Forty-Bot/linux-checklist
+
 
 
 
