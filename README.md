@@ -31,6 +31,9 @@ passwd and guest also change password policy and pass age using  login.defs and 
 
 not in the sudoers file visudo /root https://www.youtube.com/watch?v=cRVKuGh5nwM&list=PLYmFDNydjWqtA9TRBbzLYk_rCPoyAc_30&index=5
 
+
+how to run bash scripts https://www.youtube.com/watch?v=7fX1cRGVPPw
+
 netstat and ps ax https://www.youtube.com/watch?v=IPlJJSNiLJk&list=PLYmFDNydjWqtA9TRBbzLYk_rCPoyAc_30&index=6
 
 utility commands https://www.youtube.com/watch?v=oBc4bHQlS4I&list=PLYmFDNydjWqtA9TRBbzLYk_rCPoyAc_30&index=7
